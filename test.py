@@ -1,5 +1,5 @@
 print("bull shit")
 print("Bazinga")
+print("new.py delit")
 x = 10
-y = 5
-v = 7
+
